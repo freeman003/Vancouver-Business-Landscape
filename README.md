@@ -85,7 +85,7 @@ The cleaned PostgreSQL view was connected to Power BI, where DAX measures and in
 - Business composition varies substantially across neighbourhoods. For example, Legal Services are particularly prominent Downtown, while Health Care has a strong presence in Fairview.
 - Reported employment is highly skewed in several categories, making median employment an important complement to the average.
 
-> **Note:** Licence activity should not be interpreted directly as business formation or overall economic growth. A business may hold multiple licences, and licensing practices can affect year-to-year comparisons.
+> **Note:** Licence activity should not be interpreted directly as business formation or overall economic growth. A business may hold multiple licences, and licensing practices can affect year-to-year comparisons. Business licences are generally renewed periodically, so licence issuance does not necessarily represent new business formation.
 
 ---
 
