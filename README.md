@@ -106,19 +106,36 @@ Comparison of 2025 and 2026 YTD activity, reported employment, and interactive B
 
 ---
 
+## Data Source
+
+Data was obtained from the **City of Vancouver Open Data Portal – Business Licences** dataset.
+
+[View the official dataset](https://opendata.vancouver.ca/explore/dataset/business-licences/)
+
+The dataset contains information on business licence status, business type, location, issue and expiry dates, reported employees, fees, and other licence characteristics.
+
+Business licences are generally valid for the remainder of the calendar year and are typically renewed annually. Therefore, licence issuance should not be interpreted directly as new business formation.
+
+---
+
 ## Repository Structure
 
 ```text
 Vancouver-Business-Landscape/
+│
 ├── images/
+│   ├── executive_overview.png
+│   └── business_trends_insights.png
+│
 ├── powerbi/
 │   └── Vancouver_Business_Landscape.pbix
+│
 ├── sql/
 │   ├── 01_data_exploration.sql
 │   ├── 02_data_cleaning.sql
 │   └── 03_business_analysis.sql
+│
 └── README.md
-```
 
 ---
 
