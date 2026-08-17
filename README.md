@@ -136,6 +136,7 @@ Vancouver-Business-Landscape/
 │   └── 03_business_analysis.sql
 │
 └── README.md
+```
 
 ---
 
