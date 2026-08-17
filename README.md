@@ -93,15 +93,16 @@ The cleaned PostgreSQL view was connected to Power BI, where DAX measures and in
 
 ### Executive Overview
 
+
 High-level KPIs and the leading business categories and Vancouver neighbourhoods.
 
-![executive_overview](images/executive_overview.png)
+![Executive Overview](images/Executive%20review.png)
 
 ### Business Trends & Insights
 
 Comparison of 2025 and 2026 YTD activity, reported employment, and interactive Business Type and Neighbourhood filters.
 
-![business_trends_insights](images/business_trends_insights.png)
+![Business Trends & Insights](images/Business%20Trends%20%26%20Insights.png)
 
 ---
 
